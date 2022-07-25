@@ -3,7 +3,7 @@ I've worked for the latest 15 years as an engineer in the industrial automation 
 
 At the moment i'm learning data science.
 
-My main interests are:
+My main interests are:<br>
 Python<br>
 R<br>
 Machine Learning<br>
